@@ -1,0 +1,32 @@
+/* propiedad creada por el
+ desarrollador */
+ body{
+    background-color: rgb(177, 189, 199);
+    font-family: 'Inspiration', cursive;
+    /*margin-left: 50px;
+    margin-right: 50px;*/
+    margin: 0 50px
+
+ }
+.red-text{
+    color: rgb(170, 31, 31);
+    
+}
+.blue-text{
+    color:rgb(54, 54, 155);
+                 /*x  y   difuminacion  color*/
+    text-shadow: 3px 3px 5px green;
+}
+
+.card{
+    background-color: white;
+    border: 0px solid black;
+    padding:12px;
+    box-shadow: 3px 3px 15px black;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+
+.card h3{
+    text-align: center;
+}
